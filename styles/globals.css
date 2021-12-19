@@ -1,7 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+@import url("https://fonts.googleapis.com/css2?family=Quicksand");
 ul {
     column-count: 4;
+}
+.specfont{
+    font-family: Quicksand !important;   
 }
