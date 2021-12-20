@@ -1,21 +1,21 @@
-export default function Counselor(){
+export default function Creator(){
     return(
         <>
         <div class="min-w-screen flex items-center justify-center px-5 py-5">
         <div class="w-full mx-auto rounded-lg bg-gray-100 shadow-lg shadow-indigo-500 px-5 pb-10 h-full text-gray-800">
         <div class="w-full py-5">
- <div class="font-bold specfont text-3xl text-purple-500 text-center pt-9">"Counselor"</div>
+ <div class="font-bold specfont text-3xl text-purple-500 text-center pt-9">"The Creator"</div>
             <div class="text-3xl text-indigo-500 pt-6 text-left leading-tight h-3">“</div>
-            <p class="text-xl text-gray-600 text-center pt-6 px-5">For unto us a Child is born,
-Unto us a Son is given;
-And the government will be upon His shoulder.
-And His name will be called
-Wonderful, Counselor, Mighty God,
-Everlasting Father, Prince of Peace.</p>
+            <p class="text-xl text-gray-600 text-center pt-6 px-5">Have you not known?
+Have you not heard?
+The everlasting God, the Lord,
+The Creator of the ends of the earth,
+Neither faints nor is weary.
+His understanding is unsearchable.</p>
             <div class="text-3xl pt-6 text-indigo-500 text-right leading-tight h-3 -mt-3">”</div>
         </div>
         <div class="w-full">
-            <p class="text-2xl text-indigo-500 font-bold text-center">Isaiah 9:6</p>
+            <p class="text-2xl text-indigo-500 font-bold text-center">Isaiah 40:28</p>
             <p class="text-xl text-gray-500 text-center">New King James Version</p>
         </div>
         </div>

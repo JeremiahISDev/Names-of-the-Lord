@@ -41,7 +41,7 @@ var names = [
   },
   {
     name: 'Prince of Peace',
-    ref:'Isaiah 40:28',
+    ref:'Isaiah 9:6',
     link:'/names/PrinceofPeace',
   },
   {
